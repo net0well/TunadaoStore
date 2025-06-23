@@ -1,8 +1,8 @@
-# TunadaoStore 🛒
+# TunadãoStore🔥 
 
 ## 🚀 Sobre o Projeto
 
-O TunadaoStore é uma aplicação completa de e-commerce desenvolvida do zero utilizando .NET 8 e Angular 18, implementando uma arquitetura robusta com padrões como Repository, Unit of Work e Specification. O projeto conta com um backend construído em ASP.NET Core utilizando Entity Framework Core para acesso a dados, ASP.NET Identity para autenticação e autorização baseada em roles, Redis para persistência do carrinho de compras, SignalR para comunicação em tempo real e integração com Stripe para processamento seguro de pagamentos com suporte a 3D Secure. O frontend foi desenvolvido em Angular 18 com Angular CLI, utilizando Angular Material e Tailwind CSS para uma interface moderna e responsiva, Angular Reactive Forms para formulários reutilizáveis, lazy loading para otimização de performance, além de funcionalidades avançadas como paginação, busca, filtros, ordenação e um sistema completo de gestão de pedidos, demonstrando as melhores práticas de desenvolvimento full-stack moderno.
+O TunadãoStore é uma aplicação completa de e-commerce desenvolvida do zero utilizando .NET 8 e Angular 18, implementando uma arquitetura robusta com padrões como Repository, Unit of Work e Specification. O projeto conta com um backend construído em ASP.NET Core utilizando Entity Framework Core para acesso a dados, ASP.NET Identity para autenticação e autorização baseada em roles, Redis para persistência do carrinho de compras, SignalR para comunicação em tempo real e integração com Stripe para processamento seguro de pagamentos com suporte a 3D Secure. O frontend foi desenvolvido em Angular 18 com Angular CLI, utilizando Angular Material e Tailwind CSS para uma interface moderna e responsiva, Angular Reactive Forms para formulários reutilizáveis, lazy loading para otimização de performance, além de funcionalidades avançadas como paginação, busca, filtros, ordenação e um sistema completo de gestão de pedidos, demonstrando as melhores práticas de desenvolvimento full-stack moderno.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -25,7 +25,7 @@ O TunadaoStore é uma aplicação completa de e-commerce desenvolvida do zero ut
 - **Multiple DbContext** - Contextos separados por domínio
 - **SQL Server** - Banco de dados principal
 
-## ✨ Funcionalidades Implementadas
+## ✨ Funcionalidades Implementadas (Em construção)
 
 ### 🏪 Loja Virtual
 - Catálogo de produtos com busca, filtros e ordenação
